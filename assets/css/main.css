@@ -8559,31 +8559,38 @@ input, select, textarea {
 			}
 
 		#wrapper > .color1 {
+			/* Story default */
 			background-color: #30363d;
 		}
 
 		#wrapper > .color2 {
-			background-color: #db8992;
+			/* LANL Main */
+			background-color: #000F7E;
 		}
 
 		#wrapper > .color3 {
-			background-color: #ab7aad;
+			/* LANL Secondary */
+			background-color: #0070C1;
 		}
 
 		#wrapper > .color4 {
-			background-color: #897cad;
+			/* TAMU Main */
+			background-color: #500000;
 		}
 
 		#wrapper > .color5 {
-			background-color: #7794ce;
+			/* TAMU Secondary */
+			background-color: #a7a7a7;
 		}
 
 		#wrapper > .color6 {
-			background-color: #64abb4;
+			/* Bard Main */
+			background-color: #ad1a1f;
 		}
 
 		#wrapper > .color7 {
-			background-color: #6ba78c;
+			/* Bard Secondary */
+			background-color: #222222;
 		}
 
 		#wrapper.divided > * {
